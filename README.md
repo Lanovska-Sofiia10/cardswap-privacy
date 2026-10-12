@@ -1,3 +1,9 @@
+
+<style>
+  h1:first-of-type { display: none !important; }
+  .markdown-body h1:first-child { display: none !important; }
+</style>
+
 **Політика конфіденційності додатка CardSwap**  
 *Дата останнього оновлення: 11 жовтня 2026 року*
 
